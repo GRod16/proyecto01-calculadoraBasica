@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-01-calculadora-basica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html -d dist",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "G.Rodriguez",
+  "license": "ISC",
+  "description": "Calculadora basica para practicar conceptos basicos de JS, SCSS, HTML.",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "jest": "^29.7.0",
+    "parcel": "^2.12.0"
+  }
+}
