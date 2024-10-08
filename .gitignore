@@ -9,7 +9,6 @@ node_modules/
 .idea/
 
 # Ignorar archivos de compilación
-/dist/
 /build/
 
 # Ignorar archivos temporales de sistema
