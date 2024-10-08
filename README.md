@@ -7,7 +7,7 @@
     -   HTML: Estructuración del contenido utilizando etiquetas HTML semánticas.
     -   Diseño: Aplicación de principios de diseño para crear una interfaz de usuario clara y accesible utilizando la convención BEM y las etiquetas ARIA 
     -   Interactividad Futura: Preparación del código para agregar lógica interactiva más adelante con JavaScript.
--**Tecnologías Utilizadas**
+- **Tecnologías Utilizadas**
     -   HTML: Para la estructura básica de la página.
     -   CSS (Sass): Para el estilo y diseño de la calculadora.
     -   JavaScript: Para la lógica de la calculadora y su interactividad.
